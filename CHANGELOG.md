@@ -1,9 +1,15 @@
-# Change Log
+# 🌿 Athkari v1.1.0 – What's New..?
 
-All notable changes to the "athkari" extension will be documented in this file.
+Athkari just got a big update! Now you have full control over your Athkar list right inside VS Code.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+**🆕 New Features:**
 
-## [Unreleased]
+✏️ Edit Athkar: Pick any Thikr from your list and modify its text instantly.
 
-- Initial release
+🗑️ Delete Athkar: Remove any Thikr you no longer need, with a confirmation step so nothing gets deleted by accident.
+
+---
+
+**🛠 How to Use:**
+
+Ctrl + Shift + P → type 'athkari' → choose your action!
