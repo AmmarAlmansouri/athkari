@@ -17,6 +17,16 @@
 
 ---
 
+## How to Install
+
+1. Open Visual Studio Code.
+2. Go to extensions.
+3. Search for 'Athkari'.
+4. Click on Install.
+5. Reload VS Code
+
+---
+
 ## 🛠 How to Use
 
 Open the **Command Palette**:
